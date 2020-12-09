@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/herbertma/Downloads/Client Server Final Exam Prep/anonymous_pipes/main.cpp
+unistd.h
+-
+sys/types.h
+-
+stdio.h
+-
+stdlib.h
+-
+

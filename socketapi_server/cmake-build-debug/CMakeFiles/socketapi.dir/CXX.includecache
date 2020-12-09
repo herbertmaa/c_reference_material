@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/herbertma/Downloads/Client Server Final Exam Prep/socketapi_server/main.cpp
+sys/socket.h
+-
+sys/types.h
+-
+resolv.h
+-
+unistd.h
+-
+iostream
+-
+sstream
+-
+fstream
+-
+cstring
+-
+
