@@ -18,10 +18,14 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="37bcf951-0b31-4b3d-ac4b-447f4ac7fa69" />
   </component>
   <component name="ProjectId" id="1lQkrUWhF9dSwjMX0nFKlcb0vBQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,7 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607536900808</updated>
       <workItem from="1607536901915" duration="61000" />
-      <workItem from="1607537811369" duration="1000" />
+      <workItem from="1607537811369" duration="431000" />
     </task>
     <servers />
   </component>
